@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_image_item_images",
+  "info": {
+    "name": "image",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}

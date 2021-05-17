@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_job_descriptions",
+  "info": {
+    "name": "job_description",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
